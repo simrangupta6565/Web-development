@@ -1,0 +1,64 @@
+﻿<html>
+<head>
+<title>Gita</title>
+</head>
+<body text="maroon" bgcolor="orange" >
+<font face="Monotype Corsiva" size="+2">
+<center><h1><u><b>Bhagavad Gita</b></u></h1></center>
+<hr/>
+<p>It is generally agreed that, "Unlike the Vedas, which have to be preserved letter-perfect, the Gita was a popular work whose reciters would inevitably conform to changes in language and style", so the earliest "surviving" components of this dynamic text are believed to be no older than the earliest "external" references we have to the Mahabharata epic, which may include an allusion in Panini's fourth century BCE grammar. It is estimated that the text probably reached something of a "final form" by the early Gupta period (about the 4th century CE). The actual dates of composition of the Gita remain unresolved.</p>
+<p>The emerging self-definitions of Hinduism were forged in the context of continuous interaction with heterodox religions (Buddhists, Jains, Ajivikas) throughout this whole period, and with foreign people (Yavanas, or Greeks; Sakas, or Scythians; Pahlavas, or Parthians; and Kusanas, or Kushans) from the third phase on between the Mauryan empire and the rise of the Guptas</p>
+<br/><img src="cover.jpg" height="500" width="350"/>
+<img src="file5.jpg" height="500" width="700"/>
+<img src="file 2.jpg" height="500" width="350"/>
+
+</p>The Bhagavadgita combines many different elements from Samkhya and Vedanta philosophy. In matters of religion, its important contribution was the new emphasis placed on devotion, which has since remained a central path in Hinduism. In addition, the popular theism expressed elsewhere in the Mahabharata and the transcendentalism of the Upanishads converge, and a God of personal characteristics is identified with the brahman of the Vedic tradition. The Bhagavadgita thus gives a typology of the three dominant trends of Indian religion: dharma-based householder life, enlightenment-based renunciation, and devotion-based theism.</p>
+<h4>Content</h4>
+<ul type="square">
+<li>Authorship</li>
+<li>Date of composition</li>
+<li>Hindu synthesis and <i>smriti</i></li>
+<li>Status</li>
+<h2>Composition and significance</h2><hr/>
+<h3>Authorship</h3>
+<p>The epic Mahabharata is traditionally ascribed to the Sage Vyasa; the Bhagavad Gita, comprising Chapters Twenty-five to Forty-two of the Mahabharata's Bhishma Parva, is also ascribed to him.</p>
+<h3>Date of composition</h3>
+<p>Theories on the date of composition of the Gita vary considerably. Scholars accept dates from the fifth century to the second century BCE as the probable range. Professor Jeaneane Fowler, in her commentary on the Gita, considers second century BCE to be the likely date of composition. Kashi Nath Upadhyaya, a Gita scholar, on the basis of the estimated dates of Mahabharata, Brahma sutras, and other independent sources, concludes that the Bhagavad Gita was composed in the fifth or fourth century BCE.</p>
+<p>It is generally agreed that, "Unlike the Vedas, which have to be preserved letter-perfect, the Gita was a popular work whose reciters would inevitably conform to changes in language and style", so the earliest "surviving" components of this dynamic text are believed to be no older than the earliest "external" references we have to the Mahabharata epic, which may include an allusion in Panini's fourth century BCE grammar. It is estimated that the text probably reached something of a "final form" by the early Gupta period (about the 4th century CE). The actual dates of composition of the Gita remain unresolved.</p>
+<h3>Hindu synthesis and <i>smriti</i></h3>
+<p>Due to its presence in the Mahabharata, the Bhagavad Gita is classified as a Smriti text or "that which is remembered". The smriti texts of the period between 200 BCE and 100 CE belong to the emerging "Hindu Synthesis", proclaiming the authority of the Vedas while integrating various Indian traditions and religions. Acceptance of the Vedas became a central criterion for defining Hinduism over and against the heterodoxies, which rejected the Vedas.</p>
+<dl>
+<dt><b><i>Bhagavad Gita </i>as a synthesis:</b></dt>
+<dd>The Bhagavadgita may be treated as a great synthesis of the ideas of the impersonal spiritual monism with personalistic monotheism, of the yoga of action with the yoga of transcendence of action, and these again with yogas of devotion and knowledge.</dd></dl>
+<p>The influence of the Bhagavad Gita was such, that its synthesis was adapted to and incorporated into specific Indian traditions. Nicholson mentions the Shiva Gita as an adaptation of the Vishnu-oriented Bhagavat Gita into Shiva-oriented terminology, and the Isvara Gita as borrowing entire verses from the Krishna-oriented Bhagavad Gita and placing them into a new Shiva-oriented context.</p>
+<center>
+<img src="file 3.jpg" height="500" width="350"/>
+<img src="file4.jpg" height="500" width="350"/>
+</center>
+<h3>Status</h3>
+<p>The Bhagavad Gita is part of the Prasthanatrayi, which also includes the Upanishads and Brahma sutras. These are the key texts for the Vedanta, which interprets these texts to give a unified meaning. Advaita Vedanta sees the non-dualism of Atman and Brahman as its essence, whereas Bhedabheda and Vishishtadvaita see Atman and Brahman as both different and non-different, and Dvaita sees them as different. In recent times the Advaita interpretation has gained worldwide popularity, due to the Neo-Vedanta of Vivekananda and Radhakrishnan, while the Achintya Bheda Abheda interpretation has gained worldwide popularity via the Hare Krishnas, a branch of Gaudiya Vaishnavism.</p>
+<p>Although early Vedanta gives an interpretation of the sruti texts of the Upanishads, and its main commentary the Brahman Sutras, the popularity of the Bhagavad Gita was such that it could not be neglected. It is referred to in the Brahman Sutras, and Shankara, Bhaskara and Ramanuja all three wrote commentaries on it. The Bhagavad Gita is different from the Upanishads in format and content, and accessible to all, in contrast to the sruti, which are only to be read and heard by the higher castes.</p>
+<blockquote>Some branches of Hinduism give it the status of an Upanishad, and consider it to be a Åšruti or "revealed text". According to Pandit, who gives a modern-orthodox interpretation of Hinduism, "since the Bhagavad Gita represents a summary of the Upanishadic teachings, it is sometimes called 'the Upanishad of the Upanishads'."</blockquote>
+
+<center>
+<table border="5" cellpadding="10" cellspacing="10" width="300" height="400">
+<tr>
+<td colspan="2"></b>Character</b></td></tr>
+<tr>
+<td>Arjun</td>
+<td>Pandavas</td>
+</tr>
+<tr>
+<td>Lord Krishna</td>
+<td>Lord Vishnu</td>
+</tr>
+<tr>
+<td>Sanjaya</td>
+<td>King's Concellers</td></tr>
+<tr><td>Dhritarshtra</td>
+<td>Kuru King</td></tr>
+</table>
+</center>
+</font>
+</body>
+</html>
